@@ -16,3 +16,11 @@
     color: rgb(240, 139, 6);
     font-size: 20px;
 }
+
+.bxl-facebook,
+.bxl-youtube,
+.bxl-linkedin,
+.bxl-tiktok {
+    color: aliceblue;
+    font-size: 45px;
+}
