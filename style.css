@@ -10,3 +10,9 @@
 .mdl-cont {
     height: 30vh;
 }
+
+.bxs-star,
+.bxs-star-half {
+    color: rgb(240, 139, 6);
+    font-size: 20px;
+}
